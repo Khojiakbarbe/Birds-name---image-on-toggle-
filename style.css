@@ -1,0 +1,130 @@
+.bigDiv {
+    width: 60%;
+    margin-top: 5%;
+    border: 1px solid blue;
+}
+.hit {
+    background-color: blue;
+    text-align: center;
+    text-align: center;
+    color: white;
+    font-size: 130%;
+
+}
+
+.pic {
+    border: 1px solid blue;
+    height: 100px;
+    font-size: 130%;
+    font-family:  cursive;
+}
+.bee {
+    background-image: url(pic/bee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+.butterfly {
+    background-image: url(pic/butterfly.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.cockato {
+    background-image: url(pic/cockato.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.eagle {
+    background-image: url(pic/eagle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.parrot {
+    background-image: url(pic/parrot.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.falcon {
+    background-image: url(pic/falcon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.goldfinch {
+    background-image: url(pic/goldfinch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.goose {
+    background-image: url(pic/goose.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.ostrich {
+    background-image: url(pic/ostrich.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.pigeon {
+    background-image: url(pic/pigeon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.smallow {
+    background-image: url(pic/smallow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.sparrow {
+    background-image: url(pic/sparrow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.elephant {
+    background-image: url(pic/elephant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.lion {
+    background-image: url(pic/lion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.tiger {
+    background-image: url(pic/tiger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
+
+.wolf {
+    background-image: url(pic/wolf.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 0.0000001%;
+}
